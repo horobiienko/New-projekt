@@ -1,0 +1,55 @@
+.container {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .card-header {
+    padding-top: 20px;
+  }
+  .today-date {
+    font-size: 23px;
+    font-family: "Source Serif Pro", serif;
+    padding: 10px;
+  }
+  .weather-now {
+    font-size: 150px;
+    color: #0b5ed7;
+  }
+  .temperature {
+    font-size: 100px;
+    color: black;
+    font-family: "Source Serif Pro", serif;
+  }
+  
+  .city {
+    font-size: 35px;
+    color: #ff895d;
+    font-family: "Source Serif Pro", serif;
+  }
+  .time-now {
+    color: grey;
+    font-size: 20px;
+  }
+  .precipitation,
+  .wind {
+    color: #0b5ed7;
+    font-size: 15px;
+  }
+  .card-body-day {
+    color: grey;
+    border: 1px solid rgb(0, 174, 255);
+    border-radius: 4px;
+  
+    margin: 2px;
+  }
+  .fa-regular {
+    font-size: 30px;
+    color: #fdd14f;
+  }
+  .card-footer {
+    padding: 10px;
+  }
+  .no-padding {
+    padding: 0;
+  }
+  
